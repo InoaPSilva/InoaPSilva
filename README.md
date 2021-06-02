@@ -2,4 +2,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InoaPSilva&langs_count=8&theme=tokyonight)](https://github.com/InoaPSilva/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ino%C3%A3lib/)](https://www.linkedin.com/in/ino%C3%A3lib/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inoaliberato@gmail.com)](mailto:inoaliberato@gmail.com)
